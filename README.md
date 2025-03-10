@@ -1,1 +1,1 @@
-# javascript-practicve
+# javascript-practice
